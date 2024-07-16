@@ -1,4 +1,6 @@
-# Synthetic-Temporal-Networks
+# Synthetic-School-Contact-Networks
+
+
 
 This repository contains the empirical data, scripts, functions and notebook necessary to generate high-resolution temporal synthetic networks using the approaches (class-mixing and friendship-based) introduced in
 
