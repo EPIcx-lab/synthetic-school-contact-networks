@@ -37,7 +37,7 @@ NB: this file requires as inputs a sufficient number of synthetic daily contacts
 
 ## Notebooks:
 _3-optimisation.ipynb_: Notebook to optimise the parameters of the friendship-based approach. 
-NB: This notebook requires as input contacts generated with the file _1-friendship-based.py_. The file is set up to load pre-generated pickled inputs provided in the repository, in the folder copies-friendship-based-4d. These pickled files are generated automatically in the notebook _3-optimisation.ipynb_
+NB: This notebook requires as input contacts generated with the file _1-friendship-based.py_. The file is set up to load pre-generated pickled inputs provided in the repository, in the folder copies-friendship-based-4d/pickle_files. These pickled files are generated automatically in the notebook _3-optimisation.ipynb_
 
 ## Functions:
 _func_both_alg_and_opt.py_: File containing functions necessary to run all other scripts and notebooks provided.
