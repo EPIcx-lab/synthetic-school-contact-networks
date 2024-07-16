@@ -27,6 +27,7 @@ PLoS ONE 10(9): e0136497 (2015)
 ## Scripts:
 ### generating synthetic contacts
 _1-friendship-based.py_: Script to generate synthetic contacts using the friendship-based approach
+
 _2-class-mixing.py_: Script to generate synthetic contacts using the class-mixing approach
 
 ### arranging daily contacts in multi day sequences
@@ -40,6 +41,8 @@ NB: This notebook requires as input contacts generated with the file _1-friendsh
 
 ## Functions:
 _func_both_alg_and_opt.py_: File containing functions necessary to run all other scripts and notebooks provided.
+
+
 ## Empirical data provided:
 _data_in/CP-tidy-2345.csv_: This file contains empirical contact data from which synthetic contacts can be built. This is an input to the files _1-friendship-based.py_, _2-class-mixing.py_, _3-optimisation.ipynb_ and 
 
