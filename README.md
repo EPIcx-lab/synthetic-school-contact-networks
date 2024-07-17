@@ -8,12 +8,6 @@ Calmon, L., Colosi, E., Bassignana, G., Barrat, A. and Colizza, V.
 ‘Preserving friendships in school contacts: an algorithm to construct
 synthetic temporal networks for epidemic modelling’
 
-
-This code can be redistributed and/or modified
-under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 4 of the License, or (at
-your convenience) any later version.
-
 If you use this repository please cite the following papers:
 
 [1] Calmon, L., Colosi, E., Bassignana, G., Barrat, A. and Colizza, V.
